@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ripium/Ripium.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Ripium.Tests/Ripium.Tests.csproj" />
+  </Folder>
+</Solution>
